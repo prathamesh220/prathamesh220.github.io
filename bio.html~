@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet"  href="jemdoc.css" type="text/css" />
+<title>Biography</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">Prathamesh</div>
+<div class="menu-item"><a href="index.html">Home</a></div>
+<div class="menu-item"><a href="bio.html" class="current">Bio</a></div>
+<div class="menu-category">Research</div>
+<div class="menu-item"><a href="pubs.html">Publications</a></div>
+
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Biography</h1>
+</div>
+<h2>Short Bio</h2>
+<p>Hi, I'm pursuing my PHD in the <a  href="http://www.ece.iisc.ernet.in" target="_blank"> Department of Electrical Communication Engineering </a> at<a  href="http://www.iisc.ernet.in" target="_blank"> Indian Institute of Science,Bangalore </a> under the guidance of <a  href="http://ece.iisc.ernet.in/~parimal" target="_blank">Prof Parimal Parag </a>.</p> 
+
+<p> Previously I have worked for TCS as a researcher. I have completed my Master's from <a  href="http://www.ieor.iitb.ac.in/" target="_blank"> Industrial Engineering and Operations Research Department , IIT Bombay </a> in 2015. I completed  my Bachelor's in Engineerin  in electronics and communication engineering from <a  href="http:https://www.somaiya.edu/kjsce"> K.J. Somaiya College of Engineering, Mumbai  </a> in 2013.</p> 
+
+<p> My research interests lie in the performance analysis of stochastic systems. Presently, I am looking at applying various tools from Operations Research and Communication Engineering for Design and Analysis of communication systems. In the past I have worked on Management Information Systems, Multi-Armed Bandits  and Dynamic priority queuing systems. </p>  
+
+
+
+<p><a href="prathamesh.pdf">Curriculum Vitae</a></p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2016-09-21 18:15:26 IST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-19274445-1', 'auto');
+ga('send', 'pageview');
+</script>
+</body>
+</html>
+
