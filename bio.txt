@@ -1,0 +1,15 @@
+Prathamesh
+Home
+About Me
+Research
+Publications
+Theses
+Biography
+About Me
+Hi! I am a researcher broadly working on problems at the intersection of Information Theory and Optimization. I consider myself extremely fortunate to be part of a profession that allows me to constantly learn, innovate, and uncover mysteries for a living. Currently, I am employed as a Research Fellow at the National University of Singapore. I am hosted by Prof. Vincent Tan and Prof. Jonathan Scarlett.
+I received my Ph.D. degree from the Department of Electrical Communication Engineering, Indian Institute of Science, Bangalore, India, where I was advised by Prof. Himanshu Tyagi. I got my Masters's degree from the Industrial Engineering and Operations Research Department, IIT Bombay, Mumbai, India, and my Bachelor's degree from the Electronics and Communication Engineering Department, K.J. Somaiya College of Engineering, Mumbai, India.
+Before joining NUS, I was a research scientist at Huwaei RnD, Bangalore. At Huawei, I worked broadly on online prediction problems in computational advertising. In the past, I have also held research positions at the Indian Urban Data Exchange and the TCS Innovation Labs.
+My research interests lie at the intersection of information theory and stochastic optimization. My recent research includes developing communication-efficient algorithms for federated learning and understanding the bottlenecks imposed on federated learning due to information constraints such as limited communication, computation, and privacy. I have also worked on entropic compression for timely information updates. In the past, I have used discrete event system simulation and mathematical programming for academic research and industrial projects.
+My Ph.D. thesis was a runner for the IKDD Best Doctoral Dissertation in Data Science Award, 2022. For my work on entropic compression for timely updates, I was awarded the best student paper award at the IEEE International Symposium on Information Theory, 2018. I was also a recipient of the Wipro Ph.D. Fellowship and a finalist for the Qualcomm Innovation Fellowship, 2018.
+Curriculum Vitae
+.
